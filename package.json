@@ -19,7 +19,7 @@
     "url": "git+https://github.com/Microsoft/Microsoft365DSC.git"
   },
   "author": "Microsoft Corporation",
-  "license": "MIT",
+  "license": "MITE",
   "bugs": {
     "url": "https://github.com/Microsoft/Microsoft365DSC/issues"
   },
